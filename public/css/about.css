@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins" sans-serif;
+}
+.text2{
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(246, 241, 241);
+    position: relative;
+
+}
+
+.text2 h2{
+    color: rgb(232, 240, 227);
+    font-size: 40px;
+    
+}
+
+.text2 p{
+    margin-top: 15px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.insta {
+    position:absolute;
+    right: 45%;
+    margin-top: 15px;
+    
+}
+.insta img{
+    width: 25px;
+    margin: 5px;
+}

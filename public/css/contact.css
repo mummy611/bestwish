@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    font-family: 'poppins',sans-serif;
+   
+    
+}
+
+
+.social-icon4{
+    position:absolute;
+    right: 45%;
+    align-items: center;
+    
+    
+
+}
+.social-icon4 img{
+    
+    width: 35px;
+    margin:  3px;
+    margin-top: 25px;
+    
+
+}
+.social-icon4 a{
+    color: #fff;
+    display: inline;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.social-icon4 p{
+    font-size: 20px;
+    color: #fff;
+    margin-top: 15px;
+}
+
+
+
+.text33{
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    padding-top: 25%;
+    color: #fff;
+}
