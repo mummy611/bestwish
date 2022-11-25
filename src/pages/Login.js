@@ -43,11 +43,11 @@ export default function Login() {
                 <div className="login_message">
                     <h1>BEST WISHE'S</h1>
                     <p>Create a Best Wish to Your Loved once's.!!</p>
-                    <p> </p>
+                    <p>click on login </p>
                 
                 </div>
-                <div className="login_button"  >
-                    <button className='btn' onClick={signInWithGoogle}>Login</button>
+                <div className="login_buttong"  >
+                    <button className='btn' onClick={signInWithGoogle}>Login with google</button>
                     
                 </div>
             </div>

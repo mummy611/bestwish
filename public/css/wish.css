@@ -19,7 +19,7 @@ body{
     background-color: rgb(247, 245, 245);
     width: 295px;
     border-radius: 18px;
-    height: 580px;
+    height: 620px;
     margin: 20px;
     transition: 0.6s;}
  
@@ -50,14 +50,14 @@ body{
 
  .cards .l{
     padding: 0px;
-    margin-left:10px;
-    margin-top: 35px;
+    margin-left:30px;
+    margin-top: 5px;
     
   }
   .cards .k{
     padding: 10px;
-    margin-top: -13px;
-    margin-left: 82px;
+    margin-top: -19px;
+    margin-left: 92px;
     
   }
 
@@ -76,7 +76,7 @@ body{
 .cards .social-icon{
     position:relative;
     margin-left: 105px;
-    margin-top: -25px;
+    margin-top: -45px;
     
 
 }
@@ -101,8 +101,8 @@ body{
 }
 .cards .social-icon2{
     position:relative;
-    margin-left: 185px;
-    margin-top: -30px;
+    margin-left: 193px;
+    margin-top: -45px;
     align-items: end;
     
     

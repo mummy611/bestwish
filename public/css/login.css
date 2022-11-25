@@ -37,7 +37,7 @@
 
 }
 .cont .header .login_message p{
-    color: #000;
+    color: rgb(192, 28, 28);
     text-align: center;
     justify-content: center;
     background:rgb(245, 240, 240);
@@ -47,11 +47,12 @@
 
 }
 
-.cont .login_button{
+.cont .login_buttong{
     text-align: center;
     text-decoration: none;
     margin-top: 15px;
     align-items: center;
+    
     
     display: flex;
     flex-direction: row;
@@ -59,20 +60,20 @@
 
 
 }
-.cont .login_button a{
+.cont .login_buttong a{
     position: relative;
     font-family: sans-serif;
     justify-content: center;
     width: 200px;
     height: 50px;
-    color: #fff;
-    background:rgb(223, 19, 19);
+    color: rgb(79, 30, 30);
+    background:rgb(137, 27, 27);
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
     border-bottom-left-radius: 9px;
     border-bottom-right-radius: 9px;
 }
-.cont .login_button a h4{
+.cont .login_buttong a h4{
     
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
@@ -80,9 +81,9 @@
     
 }
 
-.cont .login_button:hover a{
+.cont .login_buttong:hover a{
     color:#000;
-    background: #fff;
+    background: rgb(120, 43, 43);
     transform: scale(1.09);
     transform: all is ease;
 }

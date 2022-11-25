@@ -32,12 +32,20 @@ export default function WishCrad(props) {
                     <img src={value.Image}  width="290px" height={"430px"}/>         
     
                     </div>
-                    <h3>{value.wish}</h3>
-                    <h4>{value.username}</h4>
+                    <h3><b>{value.wish}</b></h3>
+                    <h4><i>{value.username}</i></h4>
                         <p></p>
                     <div className="social-icon">
                         <a href={value.instaid}><img src={"css/img/in.png"}/> </a>
                     </div>
+                    <p className="l"><i>from</i></p>
+           
+                     <p className="k"> <i>{value.name}</i></p>
+                    <div className="social-icon2">
+                        <a href={value.instaid2}><img src={"css/img/in.png"}/>  </a>
+                        
+                    </div>
+                
                     
                         
                 </div>
