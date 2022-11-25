@@ -70,7 +70,8 @@ function Upload(props) {
                
             <div>
             <input type="file" onChange={handleChange} accept="/image/*" />
-            <button onClick={handleUpload}>Upload to Firebase</button>
+            <br></br>
+            <button onClick={handleUpload}>Upload img</button>
             <p>{percent} "% done"</p>
         </div>
                 </div>

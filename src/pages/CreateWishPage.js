@@ -94,7 +94,11 @@ const [imag,setimg] =useState("");
               <Upload setter={setimg}/>
                 </div>
 
+                <center>
                 <button onClick={uploadpost}>Upload Post</button>
+                </center>
+
+                
             </div>
             </>
     )
